@@ -4,7 +4,7 @@ let score = document.getElementsByClassName("js-score")[0]
 
 let updateScore = document.getElementsByClassName("js-score")[0]
 
-
+document.body.style.backgroundColor = 'indigo';
 
 
 //capture the html
